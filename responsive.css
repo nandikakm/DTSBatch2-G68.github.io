@@ -1,0 +1,94 @@
+@media (max-width: 1000px) {
+
+  .aplication {
+      width: 50%;
+    }
+
+    .message-wrapper h2 {
+      font-size: 25px;
+  
+    }
+  
+    .message-wrapper h3 {
+      font-size: 19px;
+    }
+  
+      .header-right a {
+        display:none;
+    
+      }
+  
+
+    }
+
+
+
+
+
+/* Untuk Smartphone */
+@media (max-width : 670px) { 
+ 
+.aplication-wrapper a {
+  font-weight: 2px;
+}
+
+.logo {
+  width: 250px;
+  padding-top: 0px
+  height:100px
+  }
+
+  .header-right  {
+    display:none;
+
+  }
+  
+  .aplication{
+    width: 100%;
+  }
+
+  .aplication p {
+    font-size: 13px;
+  }
+
+	.left {
+     width: 100%;
+  }
+   	.left img{
+	 	width: 100%;
+	}
+  
+  .message-wrapper h2 {
+    font-size: 25px;
+
+  }
+
+  .message-wrapper h3 {
+    font-size: 12px;
+    line-height: 15px;
+  
+  }
+
+  .footer-distributed{
+		font: bold 14px sans-serif;
+	
+	}
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+	.main {
+		line-height: normal;
+		font-size: auto;
+	}
+   }
+
